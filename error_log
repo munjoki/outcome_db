@@ -1,0 +1,23 @@
+[25-Feb-2016 16:15:00 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/tkaranja/public_html/akdnmerstudies/application/views/auth/authentication_register.php on line 25
+[13-Mar-2016 21:05:51 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/tkaranja/public_html/akdnmerstudies/application/views/dashboard/edit.php on line 57
+[13-Mar-2016 21:25:38 UTC] PHP Parse error:  syntax error, unexpected 'to' (T_STRING) in /home/tkaranja/public_html/akdnmerstudies/application/views/dashboard/edit.php on line 56
+[26-May-2016 08:56:49 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/tkaranja/public_html/akdnmerstudies/application/views/dashboard/edit.php on line 150
+[26-May-2016 08:57:16 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/tkaranja/public_html/akdnmerstudies/application/views/dashboard/edit.php on line 150
+[26-May-2016 13:15:27 UTC] PHP Parse error:  syntax error, unexpected 'and' (T_LOGICAL_AND) in /home/tkaranja/public_html/akdnmerstudies/application/controllers/Dashboard.php on line 575
+[26-May-2016 13:16:46 UTC] PHP Parse error:  syntax error, unexpected 'and' (T_LOGICAL_AND) in /home/tkaranja/public_html/akdnmerstudies/application/controllers/Dashboard.php on line 575
+[26-May-2016 13:16:50 UTC] PHP Parse error:  syntax error, unexpected 'and' (T_LOGICAL_AND) in /home/tkaranja/public_html/akdnmerstudies/application/controllers/Dashboard.php on line 575
+[26-May-2016 13:16:50 UTC] PHP Parse error:  syntax error, unexpected 'and' (T_LOGICAL_AND) in /home/tkaranja/public_html/akdnmerstudies/application/controllers/Dashboard.php on line 575
+[26-May-2016 13:16:50 UTC] PHP Parse error:  syntax error, unexpected 'and' (T_LOGICAL_AND) in /home/tkaranja/public_html/akdnmerstudies/application/controllers/Dashboard.php on line 575
+[26-May-2016 13:16:51 UTC] PHP Parse error:  syntax error, unexpected 'and' (T_LOGICAL_AND) in /home/tkaranja/public_html/akdnmerstudies/application/controllers/Dashboard.php on line 575
+[26-May-2016 13:16:51 UTC] PHP Parse error:  syntax error, unexpected 'and' (T_LOGICAL_AND) in /home/tkaranja/public_html/akdnmerstudies/application/controllers/Dashboard.php on line 575
+[26-May-2016 13:16:51 UTC] PHP Parse error:  syntax error, unexpected 'and' (T_LOGICAL_AND) in /home/tkaranja/public_html/akdnmerstudies/application/controllers/Dashboard.php on line 575
+[26-May-2016 13:16:52 UTC] PHP Parse error:  syntax error, unexpected 'and' (T_LOGICAL_AND) in /home/tkaranja/public_html/akdnmerstudies/application/controllers/Dashboard.php on line 575
+[26-May-2016 13:20:46 UTC] PHP Parse error:  syntax error, unexpected 'and' (T_LOGICAL_AND) in /home/tkaranja/public_html/akdnmerstudies/application/controllers/Dashboard.php on line 575
+[26-May-2016 13:20:47 UTC] PHP Parse error:  syntax error, unexpected 'and' (T_LOGICAL_AND) in /home/tkaranja/public_html/akdnmerstudies/application/controllers/Dashboard.php on line 575
+[26-May-2016 13:20:49 UTC] PHP Parse error:  syntax error, unexpected 'and' (T_LOGICAL_AND) in /home/tkaranja/public_html/akdnmerstudies/application/controllers/Dashboard.php on line 575
+[26-May-2016 13:20:49 UTC] PHP Parse error:  syntax error, unexpected 'and' (T_LOGICAL_AND) in /home/tkaranja/public_html/akdnmerstudies/application/controllers/Dashboard.php on line 575
+[26-May-2016 13:20:49 UTC] PHP Parse error:  syntax error, unexpected 'and' (T_LOGICAL_AND) in /home/tkaranja/public_html/akdnmerstudies/application/controllers/Dashboard.php on line 575
+[26-May-2016 13:21:49 UTC] PHP Parse error:  syntax error, unexpected 'and' (T_LOGICAL_AND) in /home/tkaranja/public_html/akdnmerstudies/application/controllers/Dashboard.php on line 575
+[26-May-2016 13:21:50 UTC] PHP Parse error:  syntax error, unexpected 'and' (T_LOGICAL_AND) in /home/tkaranja/public_html/akdnmerstudies/application/controllers/Dashboard.php on line 575
+[26-May-2016 13:21:52 UTC] PHP Parse error:  syntax error, unexpected 'and' (T_LOGICAL_AND) in /home/tkaranja/public_html/akdnmerstudies/application/controllers/Dashboard.php on line 575
+[26-May-2016 13:22:54 UTC] PHP Parse error:  syntax error, unexpected 'and' (T_LOGICAL_AND) in /home/tkaranja/public_html/akdnmerstudies/application/controllers/Dashboard.php on line 605
